@@ -1,0 +1,21 @@
+Package: headset
+Version: 1.6.1-1
+Architecture: amd64
+Depends: dbus, libc6, libgconf2-4, libgtk2.0-0, libnotify4, libnss3, libxtst6, xdg-utils
+Recommends: lsb-release
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0
+Installed-Size: 135352
+Maintainer: Daniel Ravina <hello@headsetapp.co>
+Homepage: http://headsetapp.co
+Priority: optional
+Section: sound
+Filename: pool/non-free/h/headset/headset_1.6.1-1_amd64.deb
+Size: 36840796
+SHA256: ccaafe502ca1e1e1609c0052dfc3f6960e7d28c7c5b5bd08245b3188c04abc48
+SHA1: c4f5dd83815b2135927796cb70927144da61be0f
+MD5sum: 1c8b4b0ad5641c1c8da185ed33f9bec2
+Description: Discover and collect music on YouTube
+ Headset is a desktop app that turns YouTube into a world class music streaming 
+ service. Create collections, tune-in to a music subreddit or quickly play that 
+ song you’ve had stuck in your head all day!
+
